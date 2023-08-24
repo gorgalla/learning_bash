@@ -1,4 +1,5 @@
 #!/bin/bash
+#Author: Gorka Gallardo - @gorgalla_
 echo "Please select an option"
 echo -e "\n1) Show connection info"
 echo -e "\n2) Show active connections"

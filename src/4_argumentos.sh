@@ -1,4 +1,5 @@
 #!/bin/bash
+#Author: Gorka Gallardo - @gorgalla_
 #programa para ejemplificar el paso de argumentos
 usuario=$1
 password=$2

@@ -1,5 +1,5 @@
 #!/bin/bash
-#Autor: Gorka Gallardo - @gorgalla_
+#Author: Gorka Gallardo - @gorgalla_
 ubi=$(pwd)
 i_kernel=$(uname -a)
 echo "Ubicacion actual: $ubi"

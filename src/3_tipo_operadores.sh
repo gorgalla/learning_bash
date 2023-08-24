@@ -1,6 +1,6 @@
 #!/bin/bash
 #Programa para revisar los tipos de operadores
-#Autor: Gorka Gallardo - @gorgalla_
+#Author: Gorka Gallardo - @gorgalla_
 numA=10
 numB=4
 echo "|********************************************|"

@@ -1,4 +1,5 @@
 #!/bin/bash
+#Author: Gorka Gallardo - gorgalla_
 green="\e[32m"
 reset="\e[0m"
 show_instructions()
