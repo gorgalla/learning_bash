@@ -1,4 +1,5 @@
 #!/bin/bash
+#Author: Gorka Gallardo - @gorgalla_
 show_instructions() {
     echo -e "\e[32mThis is a password generator.\e[0m"
     echo -e "\e[32mPlease enter the length you want for the password.\e[0m"
